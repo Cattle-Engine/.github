@@ -1,12 +1,5 @@
-## Hi there 👋
+# Cattle Engine
 
-<!--
+Cattle Engine (often abbreviated to CE) is a C++20 game engine, using AngelScript as its language of choice for you to use :D.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+It follows the philosophy of older engines such as source engine or quake engine. This is to say THE EDITOR IS NOT PART OF THE RUNTIME. 
